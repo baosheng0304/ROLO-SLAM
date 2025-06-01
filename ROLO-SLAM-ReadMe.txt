@@ -7,7 +7,7 @@ Data/
 └── rolo_ws/                   # ROLO-SLAM ROS workspace
  !!! Important
  In order to reduce file size uploding/downloading, we removed duplicated files in the apt-lists-backup and deb-packages
- 1. use var-lib-apt-lists downloaded from download https://github.com/baosheng0304/PointCloudLib/tree/main/var-lib-apt-lists as apt-lists-backup
+ 1. Add all files downloaded from download https://github.com/baosheng0304/PointCloudLib/tree/main/var-lib-apt-lists to the apt-lists-backup folder
  2. Append all deb packages which we already sent previously to the deb-packages
 
 Step 1: Move Required Folders

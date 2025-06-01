@@ -1,2 +1,2 @@
  In order to reduce file size uploding/downloading, we removed duplicated files in the apt-lists-backup
- use var-lib-apt-lists downloaded from download https://github.com/baosheng0304/PointCloudLib/tree/main/var-lib-apt-lists as apt-lists-backup
+ Add all files downloaded from download https://github.com/baosheng0304/PointCloudLib/tree/main/var-lib-apt-lists to the apt-lists-backup folder
